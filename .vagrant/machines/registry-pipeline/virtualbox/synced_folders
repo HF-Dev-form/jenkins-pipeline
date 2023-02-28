@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/SAR FERR/Desktop/ci_cd","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
